@@ -27,15 +27,6 @@
 
 ---
 
-### Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=h2osus&show_icons=true&theme=radical&count_private=true" alt="Yaroslav GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=h2osus&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
 ### Contact me
 <div align="left">
   <a href="https://linkedin.com/in/yaroslav-zinenko-304041247" target="_blank">
@@ -44,7 +35,7 @@
   <a href="https://instagram.com/h20sus" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="mailto:your-email@example.com" target="_blank">
+  <a href="mailto:yaroslavwebd@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
